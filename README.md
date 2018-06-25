@@ -1,4 +1,4 @@
-# STAT-202A
+# STATS 202A
 Homework/Projects for STATS 202A Statistical Programming
 
 • Sweep operator, Gauss-Jordan elimination, Least squares.
